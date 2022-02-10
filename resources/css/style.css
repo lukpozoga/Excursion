@@ -3,16 +3,24 @@ body {
     font-family: Verdana;
     font-weight: normal;
     text-align: center;
+    color: white;
 }
 
 h1 {
-    
     font-size: 50px;
-    color: white;
-    text-align: center;
 }
 
-#download {
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+
+.download {
     color: aquamarine;
     font-size: 16px;
 }
